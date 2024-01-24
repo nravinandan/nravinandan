@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravinandan Nagaraja</h1>
+<h1 align="center">Hi, I'm Ravinandan Nagaraja</h1>
 <h3 align="center">Executive Producer: Passionate, Empathetic and People Oriented leader skilled in leading large teams and mobile app development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nravinandan&label=Profile%20views&color=0e75b6&style=flat" alt="nravinandan" /> </p>
