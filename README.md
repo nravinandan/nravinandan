@@ -12,6 +12,7 @@
 - 📄 Know about my experiences [https://1drv.ms/b/s!AhXv9Z0fkV5oiReKj5NXWL84vWSw?e=bU1759](https://1drv.ms/b/s!AhXv9Z0fkV5oiReKj5NXWL84vWSw?e=bU1759)
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/ravinandan-nagaraja-956a308/
 <p align="left">
 </p>
 
